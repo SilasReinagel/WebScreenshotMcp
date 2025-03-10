@@ -1,0 +1,16 @@
+{
+  "name": "web-screenshot-mcp",
+  "version": "1.0.0",
+  "description": "Web screenshot MCP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.6.1"
+  }
+}
